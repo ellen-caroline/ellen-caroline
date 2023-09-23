@@ -2,7 +2,7 @@
  
  - 🔭 I’m currently working on imersao_dados_ia
  - 🌱 I’m currently learning UX/UI design and data analysis
- - 🎶 I'm currently listenint to
+ - 🎶 I'm currently listening to
 [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/Ellen艾伦)
    
 
