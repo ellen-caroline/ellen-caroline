@@ -1,10 +1,27 @@
-#### Hii! My name is Ellen Caroline /ᐠ • ˕ •マ♡
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAF0&size=24&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Ellen+Caroline+/ᐠ+•+˕+•マ♡;Front-end+developer+and+UX/UI+lover;Always+learning+new+things)](https://git.io/typing-svg)
+
  - 🔭 I’m currently working on imersao_dados_ia
- - 🌱 I’m currently learning UX/UI design and data analysis
+ - 🌱 I’m currently learning ...
  - 🎶 I'm currently listening to
-[![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/Ellen艾伦)
-   
+ [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ellen-caroline&show_icons=true&count_private=true&hide_border=true&title_color=71a997&icon_color=b4626e&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Ellen Caroline github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen-caroline&layout=compact&hide_border=true&title_color=71a997&text_color=71a997&bg_color=0d1117" />
+</div>
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="gif_ellencatblinking" src="blinking.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   </div>
 
 <div>
   <a href="https://www.notion.so/Portf-lio-e83be7d616314e0b96a860c3b77c70d2" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"> </a>
@@ -14,16 +31,22 @@
   <a target="_blank"> </a>
 </div>
 
-<img align="right" alt="gif_ellencatblinking" src="https://discordapp.com/channels/861111062039494666/867482785915338793/1154948552036986912">
-<img width="42.2%" src="https://github-readme-stats.vercel.app/api?username=ellen-caroline&show_icons=true&theme=dark&rank_icon=github">
-
 
 ##
 
 #### Toolbox ⚒️
 <div>
-  <img align="center" alt="ellen_phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+ ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+ ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 </div>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAF0&size=15&center=true&vCenter=true&width=1000&lines=And+the+universe+said+everything+you+need+is+within+you;And+the+universe+said+you+are+stronger+than+you+know;And+the+universe+said+you+are+the+daylight;And+the+universe+said+you+are+the+night;And+the+universe+said+the+darkness+you+fight+is+within+you;And+the+universe+said+the+light+you+seek+is+within+you;And+the+universe+said+you+are+not+alone;And+the+universe+said+you+are+not+separate+from+every+other+thing;And+the+universe+said+you+are+the+universe+tasting+itself,;talking+to+itself,;reading+it's+own+code;+;End+Poem+-+Julian+Gough;+;)](https://git.io/typing-svg)
+
+
 
 
 
