@@ -4,7 +4,8 @@
  🌱 I’m currently learning ...
  🎶 I'm currently listening to 
  [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
- <img src="ellencatblinkingpixel2.gif" align="left" width="50" alt="gif_ellencatblinking">
+ <img src="(https://github.com/ellen-caroline/ellen-caroline/assets/106993186/7d28d0c2-8313-484c-91cf-d7e8ba8f9af3)" align="left" width="50" alt="gif_ellencatblinking">
+
  
 
 ##
