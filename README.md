@@ -4,6 +4,8 @@
  - 🌱 I’m currently learning ...
  - 🎶 I'm currently listening to
  [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
+ <img src="ellencatblinkingpixel2.gif" align="left" width="50" alt="gif_ellencatblinking">
+ 
 
 ##
 
@@ -16,7 +18,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" width="50" alt="gif_ellencatblinking" src="ellencatblinkingpixel2.gif">
     <h3 align="center"> Toolbox ⚒️ </h3>
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
