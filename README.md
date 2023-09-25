@@ -5,10 +5,14 @@
  - 🎶 I'm currently listening to
  [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
 
+##
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ellen-caroline&show_icons=true&count_private=true&hide_border=true&title_color=71a997&icon_color=b4626e&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Ellen Caroline github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen-caroline&layout=compact&hide_border=true&title_color=71a997&text_color=71a997&bg_color=0d1117" />
 </div>
+
+##
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -38,5 +42,6 @@
  </div>
 </div>
 
+##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAF0&size=15&center=true&vCenter=true&width=1000&lines=And+the+universe+said+everything+you+need+is+within+you;And+the+universe+said+you+are+stronger+than+you+know;And+the+universe+said+you+are+the+daylight;And+the+universe+said+you+are+the+night;And+the+universe+said+the+darkness+you+fight+is+within+you;And+the+universe+said+the+light+you+seek+is+within+you;And+the+universe+said+you+are+not+alone;And+the+universe+said+you+are+not+separate+from+every+other+thing;And+the+universe+said+you+are+the+universe+tasting+itself,;talking+to+itself,;reading+it's+own+code;+;End+Poem+-+Julian+Gough;+;)](https://git.io/typing-svg)
