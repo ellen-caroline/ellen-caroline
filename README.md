@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAF0&size=24&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Ellen+Caroline+/ᐠ+•+˕+•マ♡;Front-end+developer+and+UX/UI+lover;Always+learning+new+things)](https://git.io/typing-svg)
 
+ <img src="ellencatblikingpixel2.gif" align="left" width="250" alt="gif_ellencatblinking">
 <samp> 🔭 I’m currently working on imersao_dados_ia
  🌱 I’m currently learning ...
  🎶 I'm currently listening to 
  [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
- <img src="(https://github.com/ellen-caroline/ellen-caroline/assets/106993186/7d28d0c2-8313-484c-91cf-d7e8ba8f9af3)" align="left" width="50" alt="gif_ellencatblinking">
+
 
  
 
