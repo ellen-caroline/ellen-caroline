@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAF0&size=24&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Ellen+Caroline+/ᐠ+•+˕+•マ♡;Front-end+developer+and+UX/UI+lover;Always+learning+new+things)](https://git.io/typing-svg)
 
-<h3> <samp> A little about me </h3>
+<h3> <samp> About me 🐈‍⬛ </h3>
 <samp> I’m currently... 
 <br>     working on imersao_dados_ia
 <br>     learning ... 
 <br>     listening to 
  [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
 
- Things I love
+ Things I love <br>
  Art
  🔭 Astronomy
  
