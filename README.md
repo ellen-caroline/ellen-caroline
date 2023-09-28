@@ -1,9 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAF0&size=24&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Ellen+Caroline+/ᐠ+•+˕+•マ♡;Front-end+developer+and+UX/UI+lover;Always+learning+new+things)](https://git.io/typing-svg)
 
-<samp> 🔭 I’m currently working on imersao_dados_ia
- 🌱 I’m currently learning ...
- 🎶 I'm currently listening to 
+<h3> <samp> A little about me </h3>
+<samp> I’m currently... 
+<br>     working on imersao_dados_ia
+<br>     learning ... 
+<br>     listening to 
  [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
+
+ Things I love
+ Art
+ 🔭 Astronomy
+ 
 
 
 ##
@@ -18,27 +25,26 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h3 align="center"> <samp> Toolbox ⚒️ </h3>
-    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="phyton-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="25" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="25" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="25" width="40" alt="phyton-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 
   <div> 
     <h3 align="center"> <samp> Interest to study </h3>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="25" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="25" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="25" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="25" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
 
 <div  align="center"> 
  <div>
   <h3 aligh="left"> <samp> Connect with me </h3>
-   <a href="https://www.notion.so/Portf-lio-e83be7d616314e0b96a860c3b77c70d2" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"> </a>
-   <a href="https://www.figma.com/@ellencaroline" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"> </a>
-   <a href="https://br.pinterest.com/ellencaroline0107/" target="_blank"> <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"> </a>
-   <a href="https://www.linkedin.com/in/ellen-caroline0107/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-   <a target="_blank"> </a>
+   <a href="https://www.notion.so/Portf-lio-e83be7d616314e0b96a860c3b77c70d2" target="_blank"> <img width="75" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"> </a>
+   <a href="https://www.figma.com/@ellencaroline" target="_blank"> <img width="58" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"> </a>
+   <a href="https://br.pinterest.com/ellencaroline0107/" target="_blank"> <img width="75" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"> </a>
+   <a href="https://www.linkedin.com/in/ellen-caroline0107/" target="_blank"> <img width="70" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
  </div>
 </div>
 
