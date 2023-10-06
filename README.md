@@ -7,6 +7,7 @@
 <br>     working on imersao_dados_ia
 <br>     learning ... 
 <br>     listening to 
+ 
  [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
 
  Things I love <br>
