@@ -4,7 +4,7 @@
 
 <h3> <samp> About me 🐱‍💻 </h3>
 <samp> I’m currently... 
-<br>     working on 7_edicao_imersao_dev
+<br>     working on imersao-dev-7
 <br>     learning HTML5 and CSS3
 <br>     listening to 
  
