@@ -4,11 +4,11 @@
 
 <h3> <samp> About me 🐱‍💻 </h3>
 <samp> I’m currently... 
-<br>     working on imersao_dados_ia
+<br>     working on 7_edicao_imersao_dev
 <br>     learning HTML5 and CSS3
 <br>     listening to 
  
-[![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)
+[![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)]
 
  Things I love <br>
  Art 
