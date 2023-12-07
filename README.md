@@ -6,7 +6,7 @@
 ### Artista e estudante de análise e desenvolvimento de sistemas
 - Dedicada ao aprendizado de UX/UI Design e Desenvolvimento Front-End 💻🎨❤️
 - Atualmente modificando "jornada_tech_IA" 🚀
-- Atualmente aprendendo React 🌐💻
+- Atualmente estudando React 🌐💻
 - Atualmente escutando 🎧 Mitski - "Working for the Knife" [![Spotify](https://spotify-novatorem-bino8zq4v-ellen-caroline.vercel.app/api/spotify)](https://open.spotify.com/user/ypcfcxkfi34sg6z748p78hqb6)]
 - Coisas que amo: arte 🎨, jogos 🎮, livros 📚, músicas 🎶, astronomia 🔭
 
