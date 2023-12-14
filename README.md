@@ -99,6 +99,7 @@ const ellenCaroline = {
     alt="Logo java"/></code>
 
 ### Interesse em estudar
+Angular
 
 ## Status
 
